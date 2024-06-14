@@ -1,7 +1,6 @@
 # Hosting a Simple React App in Firebase
 
-![React Setup](https://i.makeagif.com/media/11-21-2022/imisbt.gif)
-![Firebase Setup](https://media1.giphy.com/media/S3QB5UrHpH4Kq5wsax/giphy.gif?cid=6c09b9525xn79z24avrteh50tjvfej4cr0swpuoei3fexfmf&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![React Setup](https://miro.medium.com/v2/resize:fit:1400/1*zDBvHevDOoTqOGidQpwvaQ.gif)
 
 ## Prerequisites
 - Node version (v.18.12.0)
